@@ -1,6 +1,6 @@
 
 Работа с базой данных SQLite
 
-![Screenshot](scr1.png)
+![Screenshot](screen01.png)
 
-![Screenshot](scr2.png)
+
