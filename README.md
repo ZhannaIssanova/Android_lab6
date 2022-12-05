@@ -1,2 +1,6 @@
-# Android_lab6
-Лабораторная работа№6
+
+Работа с базой данных SQLite
+
+![Screenshot](scr1.png)
+
+![Screenshot](scr2.png)
